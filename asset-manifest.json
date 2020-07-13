@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/meetupclone/static/css/main.e67dd967.chunk.css",
-    "main.js": "/meetupclone/static/js/main.105c87de.chunk.js",
-    "main.js.map": "/meetupclone/static/js/main.105c87de.chunk.js.map",
+    "main.css": "/meetupclone/static/css/main.63cab122.chunk.css",
+    "main.js": "/meetupclone/static/js/main.63a817bb.chunk.js",
+    "main.js.map": "/meetupclone/static/js/main.63a817bb.chunk.js.map",
     "runtime-main.js": "/meetupclone/static/js/runtime-main.d4b0c95a.js",
     "runtime-main.js.map": "/meetupclone/static/js/runtime-main.d4b0c95a.js.map",
     "static/js/2.dd572474.chunk.js": "/meetupclone/static/js/2.dd572474.chunk.js",
     "static/js/2.dd572474.chunk.js.map": "/meetupclone/static/js/2.dd572474.chunk.js.map",
     "index.html": "/meetupclone/index.html",
-    "precache-manifest.a4dbb018275462af1d37ddda968f1577.js": "/meetupclone/precache-manifest.a4dbb018275462af1d37ddda968f1577.js",
+    "precache-manifest.96fc8fb08511f510778cac4ec1fea560.js": "/meetupclone/precache-manifest.96fc8fb08511f510778cac4ec1fea560.js",
     "service-worker.js": "/meetupclone/service-worker.js",
-    "static/css/main.e67dd967.chunk.css.map": "/meetupclone/static/css/main.e67dd967.chunk.css.map",
+    "static/css/main.63cab122.chunk.css.map": "/meetupclone/static/css/main.63cab122.chunk.css.map",
     "static/js/2.dd572474.chunk.js.LICENSE.txt": "/meetupclone/static/js/2.dd572474.chunk.js.LICENSE.txt",
     "static/media/default1.jpg": "/meetupclone/static/media/default1.950ffd0e.jpg",
     "static/media/default10.jpg": "/meetupclone/static/media/default10.0eac24f9.jpg",
@@ -24,12 +24,12 @@
     "static/media/default7.jpg": "/meetupclone/static/media/default7.143f4631.jpg",
     "static/media/default8.jpg": "/meetupclone/static/media/default8.541a1ba0.jpg",
     "static/media/default9.jpg": "/meetupclone/static/media/default9.6c537350.jpg",
-    "static/media/App.css": "/meetupclone/static/media/meetup-logo.aae54d55.svg"
+    "static/media/opening-modal.css": "/meetupclone/static/media/meetup-logo.aae54d55.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d4b0c95a.js",
     "static/js/2.dd572474.chunk.js",
-    "static/css/main.e67dd967.chunk.css",
-    "static/js/main.105c87de.chunk.js"
+    "static/css/main.63cab122.chunk.css",
+    "static/js/main.63a817bb.chunk.js"
   ]
 }
