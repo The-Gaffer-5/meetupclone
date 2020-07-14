@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6ff6b1356e94bd2445fc5b8ab9acf702",
+    "revision": "a972ad51e8efaa5db1ee1c63171c6753",
     "url": "/meetupclone/index.html"
   },
   {
-    "revision": "281792a4b051ef71abc8",
-    "url": "/meetupclone/static/css/main.c95807d3.chunk.css"
+    "revision": "fa9475193b9111c81be0",
+    "url": "/meetupclone/static/css/main.dab5d166.chunk.css"
   },
   {
-    "revision": "4e28c2150dd953a9d2d9",
-    "url": "/meetupclone/static/js/2.f5562ba3.chunk.js"
+    "revision": "33038001feba6f306059",
+    "url": "/meetupclone/static/js/2.06edb37e.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/meetupclone/static/js/2.f5562ba3.chunk.js.LICENSE.txt"
+    "url": "/meetupclone/static/js/2.06edb37e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "281792a4b051ef71abc8",
-    "url": "/meetupclone/static/js/main.3b15f9b5.chunk.js"
+    "revision": "fa9475193b9111c81be0",
+    "url": "/meetupclone/static/js/main.a30ba3cb.chunk.js"
   },
   {
     "revision": "2305ca5d701e108a7ba3",
