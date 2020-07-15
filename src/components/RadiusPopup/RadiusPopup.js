@@ -1,7 +1,7 @@
 import React from 'react'
 import './radius-popup.css'
 import {useSelector, useDispatch} from 'react-redux'
-import { changeRadius, togglePopup } from '../actions'
+import { changeRadius, togglePopup } from '../../actions'
 
 
 function RadiusPopup() {

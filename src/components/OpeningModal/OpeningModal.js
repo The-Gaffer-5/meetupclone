@@ -1,7 +1,7 @@
 import React from 'react'
 import './opening-modal.css'
 import {useDispatch, useSelector} from 'react-redux'
-import { closeOpeningModal, getEvents } from '../actions'
+import { closeOpeningModal, getEvents } from '../../actions'
 
 function OpeningModal() {
     const dispatch = useDispatch()

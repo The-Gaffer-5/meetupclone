@@ -1,6 +1,6 @@
 import React from 'react';
 import './event.css'
-import { toggleModal } from '../actions';
+import { toggleModal } from '../../actions';
 import {useDispatch} from 'react-redux'
 import backgroundPicture1 from './default1.jpg'
 import backgroundPicture2 from './default2.jpg'

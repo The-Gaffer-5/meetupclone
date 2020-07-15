@@ -1,7 +1,7 @@
 import React from 'react'
 import './city-search-popup.css'
 import {useSelector} from 'react-redux'
-import {fetchEventsRequest, fetchEventsSuccess, fetchEventsFailure} from '../actions'
+import {fetchEventsRequest, fetchEventsSuccess, fetchEventsFailure} from '../../actions'
 import CitySearch from '../CitySearch/CitySearch'
 
 function CitySearchPopup() {

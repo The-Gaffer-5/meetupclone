@@ -1,7 +1,7 @@
 import React from 'react';
 import './city-search.css'
 import {connect, useDispatch} from 'react-redux'
-import { getSuggestions, getEvents, togglePopup } from '../actions';
+import { getSuggestions, getEvents, togglePopup } from '../../actions';
 
 function CitySearch({getSuggestions, getEvents, listOfSuggestions}) {
     const dispatch = useDispatch()

@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import EventList from './EventList/EventList'
+import EventList from './components/EventList/EventList'
 import {useSelector, useDispatch} from 'react-redux'
 import {togglePopup, filterWithSearchbar} from './actions'
-import CitySearchPopup from './CitySearchPopup/CitySearchPopup';
-import RadiusPopup from './RadiusPopup/RadiusPopup';
-import EventModal from './EventModal/EventModal';
-import OpeningModal from './OpeningModal/OpeningModal';
+import CitySearchPopup from './components/CitySearchPopup/CitySearchPopup';
+import RadiusPopup from './components/RadiusPopup/RadiusPopup';
+import EventModal from './components/EventModal/EventModal';
+import OpeningModal from './components/OpeningModal/OpeningModal';
 
 function App() {
   const listOfEvents = useSelector(state => state.getAPIEvents)
