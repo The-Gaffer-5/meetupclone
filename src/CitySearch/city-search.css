@@ -1,0 +1,40 @@
+.city-searchbar {
+    height: 45px;
+    width: 240px;
+    margin-top: 12px;
+    font-size: 18px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 3px;
+}
+.city-searchbar::-webkit-input-placeholder {
+    font-style: italic;
+}
+.city-searchbar:-moz-placeholder {
+   font-style: italic;  
+}
+.city-searchbar::-moz-placeholder {
+   font-style: italic;  
+}
+.city-searchbar:-ms-input-placeholder {  
+   font-style: italic; 
+}
+.suggestions{
+   height: auto;
+   max-height: 310px;
+   font-size: 16px;
+   overflow-y: scroll;
+   color: rgb(82, 82, 82);
+   background-color: #fff;
+   margin-top: 5px;
+   
+}
+.suggestions-item {
+   border-bottom: 1px dotted rgb(65, 65, 65);
+   padding: 5px 0px;
+   cursor: pointer;
+}
+.suggestions-item:hover {
+   background-color: #2F557F;
+   color: #fff;
+}

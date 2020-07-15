@@ -1,0 +1,39 @@
+.radius-popup-wrapper {
+    position: absolute;
+    margin: 60px 0px 0px 310px;
+    width: auto;
+    height: auto;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 5px 4px 18px #00000081;
+}
+.radius-popup-triangle {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    transform: rotate(45deg);
+    margin: 53px 0px 0px 380px;
+    background-color: #fff;
+    z-index: 2;
+}
+.list-wrapper {
+    margin: 15px;
+}
+.radius-item {
+    color: #F64060;
+    font-weight: 600;
+    font-size: 16px;
+    width: 100px;
+    height: auto;
+    padding: 10px 8px;
+    text-align: left;
+    margin-left: 50%;
+    transform: translate(-50%);
+    cursor: pointer;
+    transition-duration: 200ms;
+    border-radius: 2px;
+}
+.radius-item:hover {
+    color: #fff;
+    background-color: #F64060;
+}

@@ -1,0 +1,24 @@
+.event-box {
+    display: inline-block;
+    width: 309px;
+    height: 180px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    transition: box-shadow 300ms;
+}
+.event-box:hover {
+    box-shadow: 5px 5px 20px rgba(117, 117, 117, 0.5);
+}
+.event-title {
+    font-size: 20px;
+    font-weight: 600;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, .26);
+    color: #fff;
+    text-align: left;
+    width: 90%;
+    height: 80px;
+    overflow-y: hidden;
+    margin: 100px 0px 0px 5%;
+}

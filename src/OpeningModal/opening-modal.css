@@ -1,0 +1,60 @@
+.OpeningModal {
+    position: absolute;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.70);
+    z-index: 15;
+}
+.opening-modal-content {
+    width: 500px;
+    height: 300px;
+    margin: 100px 0px 0px 50%;
+    transform: translate(-50%);
+    background-color: #fff;
+    border-radius: 10px;
+}
+.opening-modal-logo {
+    width: 160px;
+    height: 56px;
+    background-image: url('../img/meetup-logo.svg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top: 20px;
+    position: absolute;
+}
+.opening-modal-title {
+    position: absolute;
+    margin-top: 80px;
+    text-align: center;
+    width: 100%;
+    color: rgb(0, 70, 93);
+}
+.opening-modal-body {
+    position: absolute;
+    margin-top: 130px;
+    width: 100%;
+    text-align: center;
+}
+.enter-btn {
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    padding: 10px 15px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    transition-duration: 300ms;
+}
+.enter-btn:hover {
+    background-color: rgb(0, 70, 93);
+    color: #F64060;
+    border: 1px solid #F64060;
+}

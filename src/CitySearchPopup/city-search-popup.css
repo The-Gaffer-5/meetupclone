@@ -1,0 +1,22 @@
+.CitySearchPopup {
+    position: absolute;
+
+}
+.little-triangle {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    background-color: #fff;
+    transform: rotate(45deg);
+    margin: 55px 0 0 495px;
+    z-index: 2;
+}
+.searchbar-wrapper {
+    position: relative;
+    width: 280px;
+    height: 75px;
+    background-color: rgb(255, 255, 255);
+    margin: 62px 0 0 365px;
+    border-radius: 3px;
+    box-shadow: 5px 4px 18px #00000081;
+}

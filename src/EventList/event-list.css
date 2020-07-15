@@ -1,0 +1,31 @@
+.EventList {
+    width: 100%;
+    height: auto;
+}
+.Event {
+    width: 309px;
+    height: 180px;
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+}
+.event-area {
+    width: 960px;
+    height: 200px;
+    margin: 100px 0px 0px 50%;
+    transform: translate(-50%);
+}
+.loading {
+    color: #000;
+    animation: grow 1.4s linear infinite, glow 1.4s linear infinite;
+}
+@keyframes grow{
+0% {transform: scale(1);}
+50% {transform: scale(1.02);}
+100% {transform: scale(1);}
+}
+@keyframes glow {
+0% {opacity: 0.5;}
+50% {opacity: 1;}
+100% {opacity: 0.5;}
+}
